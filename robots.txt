@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /content/
+Disallow: /css/
+Disallow: /icons/
+Disallow: /share/
+Disallow: /splashscreens/
